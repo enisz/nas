@@ -13,7 +13,7 @@ Here is your updated NAS build with detailed information and prices for each com
 ### 3. **RAM: Kingston FURY 32GB DDR4 3200MHz CL16 Beast Black kit (2x16GB)**
    - **Description**: 32GB of DDR4 memory in a 2x16GB kit, running at 3200MHz, with a CAS latency of 16. Ideal for heavy NAS workloads, including file serving, media management, and virtual machines.
    - **Price**: 23,490 HUF
-   - **Link**: [Kingston FURY 32GB DDR4 3200MHz CL16 on iPon](https://ipon.hu/shop/termek/kingston-fury-32gb-ddr4-3200mhz-cl16-beast-black-kit-2x16gb/2251129)
+   - **Link**: [Kingston FURY 32GB DDR4 3200MHz CL16 on iPon](https://ipon.hu/shop/termek/kingston-fury-32gb-beast-ddr4-3200mhz-cl16-kit-kf432c16bb1k232/1933634)
 
 ### 4. **Controller Card: LSI 9300-8i (IT mode)**
    - **Description**: A powerful HBA (Host Bus Adapter) supporting 8 SATA or SAS drives, configured in IT mode for direct access to hard drives. Perfect for software RAID setups in your NAS.
